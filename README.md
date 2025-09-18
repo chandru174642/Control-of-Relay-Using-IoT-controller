@@ -8,7 +8,7 @@ REG NO:212223110007
 
 
 
-# Control-of-Relay-Using-IoT-controller
+# Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
@@ -89,10 +89,10 @@ LAMP ON:
 
 LAMP OFF:
 
+<img width="1225" height="850" alt="Screenshot 2025-09-18 085459" src="https://github.com/user-attachments/assets/38df6b31-c4d0-4a64-b208-676c8e76b57e" />
 
 
 
-<img width="1215" height="865" alt="Screenshot 2025-09-18 082327" src="https://github.com/user-attachments/assets/58d330df-b7fe-461c-b546-8b3384f6077a" />
 
 
 
