@@ -1,3 +1,13 @@
+NAME:CHANDRU.P
+
+
+
+
+REG NO:212223110007
+
+
+
+
 # Control-of-Relay-Using-IoT-controller
 
 ##  AIM:
@@ -39,9 +49,52 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 
 ## PROGRAM:
 
+void setup() {
+  pinMode(7,OUTPUT);
+}
+
+void loop() {
+  digitalWrite(7,HIGH);
+  delay(3000);
+  digitalWrite(7,LOW);
+  delay(1000);
+} 
+
+
+
+
+
 ## CIRCUIT DIAGRAM:
 
+
+
+<img width="1118" height="761" alt="Screenshot 2025-09-18 082903" src="https://github.com/user-attachments/assets/5d3d5555-b451-41e2-ae86-06fc7d52fb3c" />
+
+
+
 ## OUTPUT:
+
+
+
+
+
+LAMP ON:
+
+
+
+<img width="1227" height="864" alt="Screenshot 2025-09-18 081730" src="https://github.com/user-attachments/assets/56b9f93b-21e1-43d0-9440-281832242079" />
+
+
+
+
+LAMP OFF:
+
+
+
+
+<img width="1215" height="865" alt="Screenshot 2025-09-18 082327" src="https://github.com/user-attachments/assets/58d330df-b7fe-461c-b546-8b3384f6077a" />
+
+
 
 ## RESULT:
 
